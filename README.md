@@ -349,13 +349,14 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 
 ## 📄 License
 
-This project is licensed under the **GNU General Public License v3.0** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 **What this means:**
 - ✅ Free to use, modify, and distribute
 - ✅ Can be used commercially
-- ⚠️ Must disclose source and license
-- ⚠️ Derivatives must use same license
+- ✅ Can be used in proprietary/closed-source projects
+- ✅ No copyleft restrictions - derivatives can use any license
+- ⚠️ Must include copyright notice and license text
 
 ---
 
