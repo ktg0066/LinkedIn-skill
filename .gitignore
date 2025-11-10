@@ -1,0 +1,18 @@
+# User personal data
+linkedin-thought-leadership/assets/examples/*
+linkedin-thought-leadership/assets/voice-samples/*
+linkedin-thought-leadership/assets/case-studies/*
+linkedin-thought-leadership/assets/research/*
+linkedin-thought-leadership/assets/audience-insights/*
+linkedin-thought-leadership/assets/competitors/*
+linkedin-thought-leadership/assets/frameworks/*
+linkedin-thought-leadership/assets/templates/*
+
+# Keep templates and README
+!**/*-template.md
+!**/README.md
+
+# System files
+.DS_Store
+*.swp
+*.tmp
