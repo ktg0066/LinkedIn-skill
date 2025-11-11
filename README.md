@@ -2,7 +2,7 @@
 
 > Transform your LinkedIn presence with AI-powered content creation that learns YOUR voice, YOUR audience, and YOUR patterns.
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange.svg)](https://claude.ai)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/ktg0066/LinkedIn-skill)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -231,7 +231,7 @@ Think of it as a system that learns and improves continuously.
 ```
 LinkedIn-skill/
 ├── README.md                          # This file
-├── LICENSE                            # GPL-3.0 License
+├── LICENSE                            # MIT License
 ├── CHANGELOG.md                       # Version history
 ├── CONTRIBUTING.md                    # Contribution guidelines
 │
